@@ -1,2 +1,3 @@
-# Assignment_1
-IBM Data science professional certificate 2nd course - Tools for data science. Jupyter Assignment 
+# Data Science Ecosystem
+
+IBM Data Science Professional Certificate work focused on the tools and ecosystem used in data science.
